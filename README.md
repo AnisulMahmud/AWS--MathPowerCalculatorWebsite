@@ -12,3 +12,13 @@ steps
 4. Now we want to store the final result. We will use DynamoDB ( A key-value noSQL database) 
 5. Then setting up the permissions(IAM) for executing lambda. Basically lambda function to have the permission to write into the table.
 6. So now we just connect Amplify and Lambda function, for that we will update the index.html
+
+The final product
+![Alt text](image-2.png)
+
+
+The whole architecture of this:
+![Alt text](first.png)
+
+
+## Notes: After testing this, do not forget to delete the app from amplify.
