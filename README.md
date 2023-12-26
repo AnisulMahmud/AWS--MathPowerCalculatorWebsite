@@ -1,5 +1,5 @@
 # Website-AWS- Power of Math
-Deploying End to End Website on AWS
+Deploying a simple End to End Website on AWS
 
 steps
 
