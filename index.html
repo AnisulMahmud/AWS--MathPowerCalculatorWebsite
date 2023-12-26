@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <title>Math Power</title>
     <link rel ="stylesheet" type="text/css" href="style.css">
-    
+    <script>
         var callAPI = (base,exponent)=>{
 
             var myHeaders = new Headers();
@@ -26,7 +26,7 @@
             .then(result => alert(JSON.parse(result).body))
             .catch(error => console.log('error', error));
         }
-    </script>
+</script>
 </head>
 <body>
     <h1>TO THE POWER OF MATH!</h1>
