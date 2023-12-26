@@ -8,3 +8,7 @@ steps
 3. API Gateway - to trigger the function and also to build my own api (http/ rest / websocket) In this case, we will use REST API.
 
 ![Alt text](image-1.png)
+
+4. Now we want to store the final result. We will use DynamoDB ( A key-value noSQL database) 
+5. Then setting up the permissions(IAM) for executing lambda. Basically lambda function to have the permission to write into the table.
+6. So now we just connect Amplify and Lambda function, for that we will update the index.html

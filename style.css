@@ -1,0 +1,34 @@
+h1 {
+    color: #FFFFFF;
+    font-family: system-ui;
+    margin-left: 20px;
+    }
+body {
+    background-color: #799bb5;
+    }
+label {
+    color: #86C232;
+    font-family: system-ui;
+    font-size: 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+    }
+ button {
+    background-color: #b6f361;
+    border-color: #b0f54f;
+    color: #FFFFFF;
+    font-family: system-ui;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 30px;
+    margin-top: 20px;
+    width: 140px;
+    }
+ input {
+    color: #1e3d55;
+    font-family: system-ui;
+    font-size: 20px;
+    margin-left: 10px;
+    margin-top: 20px;
+    width: 100px;
+    }

@@ -1,3 +1,4 @@
+# After setting up the dynamodb table and give permission to Lambda to use the table
 # import the JSON utility package
 import json
 # import the Python math library
