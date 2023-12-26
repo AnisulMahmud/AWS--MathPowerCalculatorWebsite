@@ -18,7 +18,7 @@ The final product
 
 
 The whole architecture of this:
-![Alt text](first.png)
+![Alt text](first.jpg)
 
 
 ## Notes: After testing this, do not forget to delete the app from amplify.
