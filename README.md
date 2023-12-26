@@ -21,4 +21,4 @@ The whole architecture of this:
 ![Alt text](first.jpg)
 
 
-## Notes: After testing this, do not forget to delete the app from amplify.
+## Notes: After testing this, do not forget to delete the app from amplify, table from DynamoDB and lambda functions also, so that it won't cost you anything.
